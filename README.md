@@ -491,40 +491,11 @@ test('fetchObjects returns list of ApiObject', () async {
 | **Android APK (Drive)** | [Download](https://drive.google.com/file/d/1HllUZeFLcAyxzH9CiTRFs0kP2Hy8qV1k/view?usp=sharing) |
 | **Walkthrough Video** | [Coming Soon] |
 
-### How to Submit
-1. **Email to:** careers@cargopro.ai
-2. **Subject:** `Anikesh_Kumar_FrontendDevelopment_Internship`
-3. **Attachments:**
-   - Resume
-   - GitHub repo link
-   - Video walkthrough link (optional but recommended)
-
-### Video Walkthrough (5-10 min) Should Cover:
-1. **Auth Flow** (1-2 min)
-   - Phone login on web
-   - OTP entry
-   - Successful login → list page
-
-2. **Architecture** (1-2 min)
-   - Show folder structure
-   - Explain GetX bindings, controllers, services
-   - Highlight clean separation of concerns
-
-3. **CRUD Operations** (2-3 min)
-   - Create: fill form → submit → see new item
-   - Read: tap item → detail page
-   - Update: edit → save → see changes
-   - Delete: delete item with confirmation
-
-4. **Pagination & Error Handling** (1 min)
-   - Scroll list → load more
-   - Show reserved item with lock icon
-   - "Create Copy" action for reserved items
-
-5. **Deployment** (1 min)
-   - Show `flutter build web` command
-   - Firebase deploy process
-   - Live URL in browser
+### Submission Instructions
+- **Email:** careers@cargopro.ai
+- **Subject:** `Anikesh_Kumar_FrontendDevelopment_Internship`
+- **Include in email:** resume + links to GitHub repo, live web app, APK download, and (optional) 5–10 minute walkthrough video.
+- **Walkthrough video (optional):** show authentication (phone/OTP), CRUD (create/read/update/delete), pagination/reserved-item handling, and deployment/live URL.
 
 ---
 
