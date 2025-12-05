@@ -463,7 +463,7 @@ test('fetchObjects returns list of ApiObject', () async {
 | **GitHub Repository** | https://github.com/Anikesh0001/cargopro_flutter |
 | **Live Web App** | https://cargopro-flutter-ee499.web.app |
 | **Android APK (Drive)** | [Download](https://drive.google.com/file/d/1HllUZeFLcAyxzH9CiTRFs0kP2Hy8qV1k/view?usp=sharing) |
-| **Walkthrough Video** | [Coming Soon] |
+| **Walkthrough Video** | https://drive.google.com/file/d/15l-gdcAejEdMOPqfRTvgw5MBCH9Nh2-s/view?usp=sharing |
 
 
 
