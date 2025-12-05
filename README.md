@@ -465,13 +465,7 @@ test('fetchObjects returns list of ApiObject', () async {
 | **Android APK (Drive)** | [Download](https://drive.google.com/file/d/1HllUZeFLcAyxzH9CiTRFs0kP2Hy8qV1k/view?usp=sharing) |
 | **Walkthrough Video** | [Coming Soon] |
 
-### Submission Instructions
-- **Email:** careers@cargopro.ai
-- **Subject:** `Anikesh_Kumar_FrontendDevelopment_Internship`
-- **Include in email:** resume + links to GitHub repo, live web app, APK download, and (optional) 5–10 minute walkthrough video.
-- **Walkthrough video (optional):** show authentication (phone/OTP), CRUD (create/read/update/delete), pagination/reserved-item handling, and deployment/live URL.
 
----
 
 ## 📞 Support & Questions
 
