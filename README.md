@@ -5,7 +5,7 @@ A production-ready Flutter cross-platform application (mobile & web) implementin
 **GitHub:** https://github.com/Anikesh0001/cargopro_flutter  
 **Live Web App:** https://cargopro-flutter-ee499.web.app  
 **Android APK:** [Drive Link](https://drive.google.com/file/d/1HllUZeFLcAyxzH9CiTRFs0kP2Hy8qV1k/view?usp=sharing)  
-**Walkthrough Video:** [Coming Soon - 5-10 min demo on Drive]
+**Walkthrough Video:** https://drive.google.com/file/d/15l-gdcAejEdMOPqfRTvgw5MBCH9Nh2-s/view?usp=sharing 
 
 ---
 
