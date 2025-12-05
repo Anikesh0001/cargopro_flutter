@@ -9,49 +9,23 @@ A production-ready Flutter cross-platform application (mobile & web) implementin
 
 ---
 
-## 📋 Table of Contents
+## 📞 Support & Questions
 
-1. [Overview](#overview)
-2. [Features & Requirements Coverage](#features--requirements-coverage)
-3. [Project Structure](#project-structure)
-4. [Tech Stack](#tech-stack)
-5. [Installation & Setup](#installation--setup)
-6. [Firebase Configuration](#firebase-configuration)
-7. [Running the App](#running-the-app)
-8. [Building & Deployment](#building--deployment)
-9. [CRUD Operations Guide](#crud-operations-guide)
-10. [Architecture & Design Decisions](#architecture--design-decisions)
-11. [Testing](#testing)
-12. [Known Limitations & Future Work](#known-limitations--future-work)
-13. [Submission & Contact](#submission--contact)
+For questions about this project, contact:
+- **Email:** anikeshkr0001@gmail.com
+- **GitHub:** https://github.com/Anikesh0001
 
 ---
 
-## 🎯 Overview
+## 📄 License
 
-**CargoPro Frontend** is a Flutter app that demonstrates:
-- ✅ **Cross-platform support** (Android + Web)
-- ✅ **Firebase Phone OTP authentication** (with reCAPTCHA for web)
-- ✅ **GetX state management & routing** (controllers, bindings, dependency injection)
-- ✅ **Full REST API CRUD** (GET, POST, PUT, DELETE)
-- ✅ **Responsive UI** (grid/list layouts, mobile & desktop optimization)
-- ✅ **Error handling** (network failures, invalid data, API constraints)
-- ✅ **Unit tests** (API service & controller logic with mocks)
-
-The app consumes the public REST API at `https://api.restful-api.dev/objects` and handles the API's seeded/reserved objects gracefully with a "Create Copy" workflow.
+This project is part of the CargoPro Frontend Internship Assignment and is not licensed for distribution beyond the assignment context.
 
 ---
 
-## 🚀 Features & Requirements Coverage
+**Built with ❤️ using Flutter & GetX**
 
-### 1. Authentication: Firebase Phone OTP
-- ✅ **Mobile flow:** Uses Firebase `verifyPhoneNumber()` for auto code retrieval
-- ✅ **Web flow:** Uses Firebase `signInWithPhoneNumber()` with auto-triggered reCAPTCHA
-- ✅ **Error handling:** Invalid OTP, network errors, resend functionality
-- ✅ **State management:** All auth state managed via GetX `AuthController`
-- ✅ **Logout & re-login:** Full support for switching users
-
-**File:** `lib/controllers/auth_controller.dart`
+**Last Updated:** December 5, 2025
 
 ### 2. API Integration: CRUD Operations
 | Operation | HTTP Method | Implementation |
