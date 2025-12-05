@@ -38,6 +38,7 @@ android/gradle/
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
+**/android/app/google-services.json
 
 # iOS
 ios/Flutter/Flutter.podspec
